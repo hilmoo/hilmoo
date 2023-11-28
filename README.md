@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/hilmoo/hilmoo/blob/main/asset/Hi.gif" width="30px">, I am Hilmi </h1>
+<h1 align="center">Hi, there! I am Hilmi https://github.com/hilmoo/hilmoo/blob/main/asset/Hi.gif</h1>
 
 <div align="center">
 
