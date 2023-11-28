@@ -13,4 +13,4 @@
 <br>
 
 ![hilmoo's Stats](https://github-readme-stats.vercel.app/api?username=hilmoo&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false)
-![hilmoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmoo&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
+![hilmoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
