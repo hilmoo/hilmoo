@@ -11,7 +11,7 @@
 
 
 <br>
-<div align="center">
+<div align="left">
 
 [![Hilmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
