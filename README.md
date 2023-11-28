@@ -7,5 +7,6 @@
 </div>
 
 - 🏫 I’m currently studied at **Universitas Gadjah Mada**
-- 🌱 I am currently interested in learning about **Cybersecurity** and **Data Analytics**.
+- 🌱 I’m currently interested in learning about **Cybersecurity** and **Data Analytics**.
 
+![hilmoo's Stats](https://github-readme-stats.vercel.app/api?username=hilmoo&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false)
