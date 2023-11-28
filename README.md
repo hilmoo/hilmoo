@@ -1,4 +1,4 @@
-<h2 align="center" style="font-size:250px">Hi, there! I'm Hilmi 👋</h2>
+<h2 align="center" style="font-size:250px">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hilmi</h2>
 
 <div align="center">
 
@@ -7,5 +7,5 @@
 </div>
 
 - 🏫 I’m currently studied at **Universitas Gadjah Mada**
-- 🌱 I’m currently interest learninging **Cyber Security** and **Data Analytics** stuff
+- 🌱 I am currently interested in learning about **Cybersecurity** and **Data Analytics**.
 
