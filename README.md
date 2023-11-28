@@ -12,5 +12,5 @@
 
 <br>
 
-![hilmoo's Stats](https://github-readme-stats.vercel.app/api?username=hilmoo&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false)
-![hilmoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmoo&layout=compact&theme=tokyonight&langs_count=8)
+[![Hilmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)]
+[![Hilmoo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmoo&layout=compact&theme=tokyonight&langs_count=8)
