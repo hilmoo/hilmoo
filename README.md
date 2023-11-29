@@ -11,7 +11,7 @@
 <div align="left">
 <h3 align="left">🛠 Currently Learning:</h3>
 <img src="https://img.shields.io/badge/-Python-0d182b?style=flat&logo=python" alt="python"> &nbsp;
-<img height="27" src="https://img.shields.io/badge/-C++-0d182b?style=flat&logo=C%2B%2B&logoColor=326696" alt="cpp"> &nbsp;
+<img src="https://img.shields.io/badge/-C++-0d182b?style=flat&logo=C%2B%2B&logoColor=326696" alt="cpp"> &nbsp;
 </div>
 <br>
 <div align="left">
