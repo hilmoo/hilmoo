@@ -6,7 +6,7 @@
 
 </div>
 
-- 🏫 I’m currently studied at **Information Engineering Gadjah Mada University**.
+- 🏫 I’m currently study at **Information Engineering Gadjah Mada University**.
 - 🌱 I’m currently interested in learning about **Cybersecurity** and **Data Analytics**.
 
 <h3 align="left">🛠 Currently Learning:</h3>
