@@ -16,7 +16,7 @@
 <br>
 <div align="left">
 
-<h3 align="left"><img height="27" src="https://img.shields.io/badge/Github"> Github Information:</h3>
+<h3 align="left"><img height="27" src="https://img.shields.io/badge/-Github"> Github Information:</h3>
 
 [![Hilmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
