@@ -16,7 +16,7 @@
 <br>
 <div align="left">
 
-<h3 align="left"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> Github Information:</h3>
+<h3 align="left"><img height="16" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> Github Information:</h3>
 
 [![Hilmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
