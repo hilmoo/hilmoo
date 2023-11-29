@@ -16,7 +16,8 @@
 <br>
 <div align="left">
 
-<h3 align="left"><img height="27" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> Currently Learning:</h3>
+<h3 align="left"><img height="27" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> Github Information:</h3>
+
 [![Hilmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Hilmoo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmoo&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
