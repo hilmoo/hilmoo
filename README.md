@@ -10,13 +10,13 @@
 - 🌱 I’m currently interested in learning about **Cybersecurity** and **Data Analytics**.
 <div align="left">
 <h3 align="left">🛠 Currently Learning:</h3>
-<img height="27" src="https://img.shields.io/badge/-Python-0d182b?style=flat&logo=github" alt="python"> &nbsp;
+<img height="27" src="https://img.shields.io/badge/-Python-0d182b?style=flat&logo=python" alt="python"> &nbsp;
 <img height="27" src="https://img.shields.io/badge/-C++-0d182b?style=flat&logo=C%2B%2B&logoColor=326696" alt="cpp"> &nbsp;
 </div>
 <br>
 <div align="left">
 
-<h3 align="left"><img height="27" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> Github Information:</h3>
+<h3 align="left"><img height="27" src="src="https://img.shields.io/badge/-Githuv-0d182b?logo=github"> Github Information:</h3>
 
 [![Hilmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
