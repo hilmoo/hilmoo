@@ -18,7 +18,9 @@
 
 <h3 align="left"><img height="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> Github Information:</h3>
 
-[![Hilmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![hilmoo's Stats](https://github-readme-stats.vercel.app/api?username=hilmoo&theme=dark&show_icons=true&hide_border=false&count_private=true)
 <br>
-[![Hilmoo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmoo&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![hilmoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hilmoo&theme=dark&hide_border=false)
+<br>
+![hilmoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmoo&theme=dark&show_icons=true&hide_border=false&layout=compact)
 </div>
