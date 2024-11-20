@@ -6,7 +6,7 @@
 </div>
 
 - 🏫 I’m currently study at **Information Engineering Gadjah Mada University**.
-- 🌱 I’m currently interested in learning about **Cybersecurity** and **Develop Web using Flask**.
+- 🌱 I’m currently interested in learning about **Cybersecurity** and **Develop App**.
 <div align="left">
 <h3 align="left">🛠 Currently Learning:</h3>
 <img height="30" src="https://img.shields.io/badge/-Python-0d182b?style=flat&logo=python" alt="python"> &nbsp;
