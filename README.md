@@ -21,5 +21,5 @@
 <br>
 ![hilmoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hilmoo&theme=dark&hide_border=false)
 <br>
-![hilmoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmoo&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![hilmoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmoo&theme=dark&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook)
 </div>
