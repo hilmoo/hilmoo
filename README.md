@@ -11,7 +11,7 @@
 <h3 align="left">🛠 Currently Learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,py,ts,postgres,go,rust,githubactions" />
+    <img src="https://skillicons.dev/icons?i=git,docker,githubactions,py,ts,postgres,go,rust,react" />
   </a>
 </p>
 </div>
