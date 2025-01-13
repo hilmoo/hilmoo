@@ -9,14 +9,12 @@
 - 🌱 I’m currently interested in learning about **Cybersecurity** and **Develop App**.
 <div align="left">
 <h3 align="left">🛠 Currently Learning:</h3>
-<a href="https://www.python.org/"><img height="27" src="https://img.shields.io/badge/-Python-0d182b?style=flat&logo=python" alt="Python"></a>&nbsp;
-<a href="#"><img  height="27" src="https://img.shields.io/badge/C++-0d182b?style=flat&logo=c%2B%2B" alt="C++"></a>&nbsp;
-<a href="https://go.dev/"><img  height="27" src="https://img.shields.io/badge/Go-0d182b?style=flat&logo=go" alt="Go"></a>&nbsp;
-<a href="https://www.rust-lang.org/"><img height="27" src="https://img.shields.io/badge/-Rust-0d182b?style=flat&logo=rust" alt="Rust"></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img  height="27" src="https://img.shields.io/badge/Typescript-0d182b?style=flat&logo=typescript" alt="Typescript"></a>&nbsp;
-<a href="#"><img  height="27" src="https://img.shields.io/badge/Postgresql-0d182b?style=flat&logo=postgresql" alt="Postgresql"></a>&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,py,ts,postgres,go,rust,githubactions" />
+  </a>
+</p>
 </div>
-<br>
 <div align="left">
 
 <h3 align="left"><img height="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> Github Information:</h3>
