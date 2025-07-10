@@ -5,8 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilmi05/) &nbsp;
 </div>
 
-- 🏫 I’m currently study at **Information Engineering Gadjah Mada University**.
-- 🌱 I’m currently interested in learning about **Cybersecurity** and **Develop App**.
+- 🏫 I’m currently study at **Information Engineering Universitas Gadjah Mada**.
+- 🌱 I’m currently interested in learning about **Cybersecurity** and **Software Engineering**.
 <div align="left">
 <h3 align="left">🛠 Currently Learning:</h3>
 <p align="center">
