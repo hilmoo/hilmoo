@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="645" height="343" fill="none" viewBox="0 0 645 343">
+    <style>
+        path {
+        stroke: #000;
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        animation: draw-line 3s ease-out infinite;
+        }
+        @media (prefers-color-scheme: dark) {
+        path {
+        stroke: #fff;
+        }
+        }
+        @keyframes draw-line {
+        to {
+        stroke-dashoffset: 0;
+        }
+        }
+    </style>
+    <path
+        d="M10 110
+       C40.0001 110 39.4999 10 69.5 10
+       C79.4999 10 59.4999 110 69.5 110
+       C99.4999 110 99.4999 10.0002 130 10
+       C139.5 9.99994 119.5 110 129.5 110
+       C139.5 110 139.5 90.0001 149.5 69.5001
+       C151.933 64.5115 159.5 50.5001 159.5 50.5001
+       C159.5 50.5001 167 9.9999 189.5 10.0001
+       C210.53 10.0003 218.56 39.5709 216.5 60.5001
+       C214.039 85.5075 204.145 114.906 179.5 110
+       C155.288 105.181 159.5 50.5001 159.5 50.5001"
+        stroke="black"
+        stroke-width="20"
+        stroke-linecap="round"
+        fill="none"
+    />
+</svg>
